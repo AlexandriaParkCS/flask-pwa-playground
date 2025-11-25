@@ -10,6 +10,8 @@ import logging
 
 import userManagement as dbHandler
 
+# Testing Git integration with VS Code
+
 # Code snippet for logging a message
 # app.logger.critical("message")
 
